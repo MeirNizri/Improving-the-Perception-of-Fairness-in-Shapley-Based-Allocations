@@ -1,8 +1,8 @@
 # Shapley values
 
-An open-source library of [Shapley value algorithms](http://shapleyvalue.com/) in Python.
+An open-source library of [Shapley value algorithms](https://en.wikipedia.org/wiki/Shapley_value) in Python.
 
-***For example of "Shapley values" algorithm you can enter to: [example of "Shapley values"](http://liadn7.pythonanywhere.com/)***
+***For example of "Shapley values" algorithm you can enter to: [example of "Shapley values"](http://shapleyvalue.com/)***
 
 ## Installation
 
