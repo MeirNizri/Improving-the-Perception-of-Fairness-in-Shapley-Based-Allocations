@@ -1,12 +1,12 @@
 # Shapley values
 
-An open-source library of [Shapley value algorithms](https://en.wikipedia.org/wiki/Shapley_value) in Python.
+An open-source library of [Shapley value algorithms](http://shapleyvalue.com/) in Python.
 
 ***For example of "Shapley values" algorithm you can enter to: [example of "Shapley values"](http://liadn7.pythonanywhere.com/)***
 
 ## Installation
 
-    clone https://github.com/LIADN7/shapley_values.git
+    clone https://github.com/MeirNizri/Improving-the-Perception-of-Fairness-in-Shapley-Based-Allocations.git
     cd shapley_values
     pip install -r requirements.txt
     pip install -e .
